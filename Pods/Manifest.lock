@@ -1,0 +1,16 @@
+PODS:
+  - AVOSCloud (11.2.2)
+
+DEPENDENCIES:
+  - AVOSCloud
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AVOSCloud
+
+SPEC CHECKSUMS:
+  AVOSCloud: 5dac17ca0e33dad232372564f3d3d175443c943f
+
+PODFILE CHECKSUM: 96d192e383a8b37f9291afe1d26e7e1cc4c15ee1
+
+COCOAPODS: 1.5.3
